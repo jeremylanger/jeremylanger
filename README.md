@@ -1,6 +1,6 @@
 # Hi 👋 I'm Jeremy Langer
 
-I'm a tech lead and software engineer with 15 years of experience building scalable web applications with clean, performant code. I'm detail-oriented, collaborative, and care deeply about creating seamless user experiences that drive real business value.
+I'm a team lead and software engineer with 15+ years of experience building scalable web applications with clean, performant code. I'm detail-oriented, collaborative, and care deeply about creating seamless user experiences that drive real business value.
 
 ## A few of my core beliefs
 
@@ -18,7 +18,11 @@ Progress beats hesitation. Whether it's code, a design, or a decision, build the
 
 ### ❓ Question the status quo
 
-Great products aren't built on autopilot. I ask hard questions, challenge assumptions, and seek context to make smart, user-driven decisions.
+Great products aren't built on autopilot. I ask hard questions, challenge assumptions, and seek context to make the best decisions.
+
+## My Writings
+
+I write about software engineering and AI on [my Medium page](https://medium.com/@jeremylanger).
 
 ## Quick Code Facts
 
@@ -27,7 +31,6 @@ Here's how I approach writing software. Strong opinions, loosely held.
 - **Write less code** - all code is technical debt. I get excited when I see a PR that has more lines removed than added.
 - **Balance doing things "right" vs. iterating quickly** - the goal is to solve business problems, not to write elegant code; however, you should still aim to have both.
 - **Readable code > short code** - write code for the people who actually read it, not the computers that run it. This isn't mutually exclusive to writing performant code. As with the point above, I aim to have both.
-- **Code should be self documenting** - the most appropriate time for comments is answering "why", not "what". If you still feel like you need a comment, more likely it needs to be refactored.
 
 ## Outside of work
 
